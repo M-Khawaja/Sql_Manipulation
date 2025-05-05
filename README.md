@@ -1,4 +1,4 @@
-# Sql_Manipulation
+# SQL_Manipulation
 
 ## Overview
 This project involves cleaning and preparing a customer marketing dataset for analysis. The dataset contains demographic and spending information, and the goal is to preprocess the data for future analysis or modelling. The project includes handling missing values, removing irrelevant columns, creating new features, and managing outliers.
